@@ -47,5 +47,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the application in t
 
 
 
-Project Link: [https://github.com/your_username/my-vite-react-app](https://github.com/your_username/my-vite-react-app)
+Live Project Link: https://sunny-belekoy-f69695.netlify.app/
 
